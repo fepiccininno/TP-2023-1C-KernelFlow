@@ -1,5 +1,7 @@
 # T.U.K.I.
 ## Sistemas Operativos - 2023 1C
+Trabajo práctico de la asignatura Sistemas Operativos (SO) en la carrera de Ingeniería en Sistemas de Información. Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN-FRBA).
+
 ## Grupo KernelFlow
 
 - Condori Joselin
